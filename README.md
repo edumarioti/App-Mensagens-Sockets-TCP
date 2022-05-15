@@ -1,5 +1,5 @@
 # App Mensagens Sockets TCP
- Sistema de troca de mensagens pela intranet utilizando Socktes TCPpara a comunicação, Pickle para serializar oas dados e tkinter para as telas de interação.
+ Sistema de troca de mensagens pela intranet utilizando Socktes TCP para a comunicação, Pickle para serializar oas dados e tkinter para as telas de interação.
  
  Abaixo, a tela do servidor, mostrando os clientes concetados e o tráfego de mensagens:
  
